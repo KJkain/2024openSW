@@ -4,4 +4,4 @@
 
 ###v^^v
 
-####13주차 충돌 여기는 conflict1
+####13주차 충돌 여기는 conflict1과 conflict2였습니다
